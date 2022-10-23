@@ -199,7 +199,7 @@ td {
 }
 
 .active {
-    background-color: lightseagreen !important;
+    background-color: rgb(107, 242, 235) !important;
 }
 
 .active td {
